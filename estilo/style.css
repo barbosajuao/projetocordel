@@ -17,7 +17,7 @@
 }
 html,body{ /*dessa forma ja consigo configurar 2 tegs ao mesmo tempo quando for a mesma config*/
     min-height: 100vh;/*tamanho equivalente a aba da tela*/
-    background-color: blue;
+    background-color: rgb(255, 255, 255);
     font-family: var(--fonte01);
 
 }
@@ -71,13 +71,13 @@ section.foto > p {
 }
 section#img01{
     background-image: url(../imagens/background001.jpg);
-    background-position: right center;
+    background-position: center;
     
 
 }
 section#img02{
     background-image: url(../imagens/background002.jpg);
-    background-position: right center;
+    background-position: center;
    
 
 }
