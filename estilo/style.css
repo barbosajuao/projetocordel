@@ -61,7 +61,7 @@ section.normal{
 }
 section.foto{
     color: beige;
-    background-size: cover;/* para que a foto se adapte a tela */
+    /* para que a foto se adapte a tela */
     background-attachment: fixed;/*para que a foto fique fixada e o conteudo role*/
 }
 section.foto > p {
@@ -72,14 +72,14 @@ section.foto > p {
 section#img01{
     background-image: url(../imagens/background001.jpg);
     background-position: center;
-    background-size: cover;
+    
     
 
 }
 section#img02{
     background-image: url(../imagens/background002.jpg);
     background-position: center;
-    background-size: cover;
+    
 
 }
 
